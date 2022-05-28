@@ -1,0 +1,5 @@
+testng_POM.xml
+testng_POM2.xml
+reports/
+.settings/
+test-output/
